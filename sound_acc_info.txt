@@ -1,0 +1,22 @@
+======= Home Tasks Dataset ========
+
+The sound and accelerometer data were collected by 3 volunteers while performing 7 different activities: mop floor, sweep floor, type on computer keyboard, brush teeth, wash hands, eat chips and watch t.v. Each volunteer performed each activity for approximately 3 min. If the activity lasted less than 3 min, another session was recorded until completing the 3 min. The data were collected with a wrist-band (Microsoft Band 2) and a cellphone. The wrist-band was used to collect accelerometer data and was worn by the volunteers in their dominant hand. The accelerometer sensor returns values from the x, y and z axes and the sampling rate was set to 31 Hz. The cellphone was used to record environmental sound with a sampling rate of 8000 Hz and it was placed on a table in the same room the user was performing the activity.
+
+The dataset contains the variables after feature extraction.
+
+
+CITATION: In all documents and papers that report experimental results based on this dataset, a reference to the following paper should be included:
+
+Garcia-Ceja, E., Galván-Tejada, C. E., & Brena, R. (2018). Multi-view stacking for activity recognition with sound and accelerometer data. Information Fusion, 40, 45-56.
+
+BibTeX:
+
+@article{GarciaCeja2018multiview,
+  title={Multi-view stacking for activity recognition with sound and accelerometer data},
+  author={Garcia-Ceja, Enrique and Galv{\'a}n-Tejada, Carlos E and Brena, Ramon},
+  journal={Information Fusion},
+  volume={40},
+  pages={45--56},
+  year={2018},
+  publisher={Elsevier}
+}
